@@ -36,8 +36,13 @@ As a hobby, I am involved in Web Application development.
 <!-- ![haradakaito GitHub stats](https://github-readme-stats.vercel.app/api?username=haradakaito&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# My Skill (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=python,aws,html,css,js,c,java,github,vscode" /> <br /><br />
+# My Skill
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=python,aws,html,css,js,c,java" /> <br /><br />
+
+## Frameworks and Tools
+<img src="https://skillicons.dev/icons?i=github,vscode" /> <br /><br />
+
 
 # Social Media
 <p align="left">
