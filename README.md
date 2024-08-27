@@ -3,18 +3,17 @@ Nice to meet you. My name is Kaito Harada.
 I live in Japan and am a graduate student majoring in Computer Science.  
 My research primarily focuses on Machine Learning and IoT.  
 As a hobby, I am involved in Web Application development.
-#
 
+# About me
 ![haradakaito GitHub stats](https://github-readme-stats.vercel.app/api?username=haradakaito&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,aws,html,css,js,c,java,github,vscode" /> <br /><br />
 
-# Now Training
+# Social Media
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
+    
 </p>
 
 <!-- --------------------------------- :) ---------------------------------- -->
