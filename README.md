@@ -1,8 +1,8 @@
 # Introduction
 Nice to meet you. My name is Kaito Harada.👋  
 
-🌐Mypage: https://haradakaito.org
-🎓Research area: Machine Learning, IoT, Time-Series Data, Wireless Network, Human Sensing
+🌐Mypage: https://haradakaito.org  
+🎓Research area: Machine Learning, IoT, Time-Series Data, Wireless Network, Human Sensing  
 🏆
 
 
