@@ -5,8 +5,36 @@ My research primarily focuses on Machine Learning and IoT.
 As a hobby, I am involved in Web Application development.
 
 # About me
-![haradakaito GitHub stats](https://github-readme-stats.vercel.app/api?username=haradakaito&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+ <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+</picture>
+
+<!-- ![haradakaito GitHub stats](https://github-readme-stats.vercel.app/api?username=haradakaito&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,aws,html,css,js,c,java,github,vscode" /> <br /><br />
