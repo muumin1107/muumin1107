@@ -56,6 +56,8 @@ Nice to meet you. My name is Kaito Harada.👋
 <a href="https://www.instagram.com/dumdum_chanman/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
+※Clicking will redirect you to the account.
+
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
