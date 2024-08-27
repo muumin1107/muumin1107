@@ -1,4 +1,5 @@
 # Introduction
+
 Nice to meet you. My name is Kaito Harada.👋  
 
 🌐Mypage: https://haradakaito.org  
@@ -8,6 +9,7 @@ Nice to meet you. My name is Kaito Harada.👋
 
 
 # About me
+
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
@@ -40,15 +42,19 @@ Nice to meet you. My name is Kaito Harada.👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # My Skill（Programming Languages）
+
 <img src="https://skillicons.dev/icons?i=python,html,css,js,c,java" /> <br /><br />
 
 # My Skill（Framework and Tools）
+
 <img src="https://skillicons.dev/icons?i=aws,vscode,github,anaconda,fastapi,latex" /> <br /><br />
 
 # Now Training
+
 <img src="https://skillicons.dev/icons?i=docker" /> <br /><br />
 
 # Social Media
+
 <p align="left">
 <a href="mailto:harada.kaito.20@shizuoka.ac.jp"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/haradakaito"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
