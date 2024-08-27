@@ -1,8 +1,8 @@
 # Introduction
 Nice to meet you. My name is Kaito Harada.👋  
-I live in Japan and am a graduate student majoring in Computer Science.  
-My research primarily focuses on Machine Learning and IoT.  
-As a hobby, I am involved in Web Application development.
+
+🌐mypage: https://haradakaito.org/
+
 
 # About me
 <p align="left">
