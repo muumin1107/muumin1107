@@ -40,7 +40,7 @@ As a hobby, I am involved in Web Application development.
 <img src="https://skillicons.dev/icons?i=python,html,css,js,c,java" /> <br /><br />
 
 # My Skill（Framework and Tools）
-<img src="https://skillicons.dev/icons?i=aws,vscode,github,anaconda,fastapi,latex,notion,opencv,raspberrypi,pytorch,sklearn,tensorflow" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,vscode,github,anaconda,fastapi,latex,notion" /> <br /><br />
 
 # Now Training
 <img src="https://skillicons.dev/icons?i=docker" /> <br /><br />
