@@ -1,11 +1,10 @@
 # Introduction
 Nice to meet you. My name is Kaito Harada.👋  
 
-📧Email: harada.kaito.20@shizuoka.ac.jp  
 🌐Mypage: https://haradakaito.org  
 🎓Research area: Machine Learning, IoT, Time-Series Data, Wireless Network, Human Sensing  
-🏆Achievements: International Patent Application, Student Encouragement Award at the 86th National Convention of the Information Processing Society of Japan (IPSJ), Best Presentation Award at DICOMO 2024  
-
+🏆Achievements: International Patent Application, Student Encouragement Award at the Information Processing Society of Japan (IPSJ), Best Presentation Award at DICOMO 2024  
+💼Hobby: Strength training, Mahjong🀄, Shopping👜, Travel🚃
 
 
 # About me
