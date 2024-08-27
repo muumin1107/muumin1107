@@ -37,7 +37,10 @@ As a hobby, I am involved in Web Application development.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # My Skill（Programming Languages）
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,shell" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c,java" /> <br /><br />
+
+# My Skill（Framework and Tools）
+<img src="https://skillicons.dev/icons?i=aws,vscode,github,anaconda,fastapi,latex,notion,opencv,raspberrypi,pytorch,sklearn,tensorflow" /> <br /><br />
 
 # Now Training
 <img src="https://skillicons.dev/icons?i=docker" /> <br /><br />
