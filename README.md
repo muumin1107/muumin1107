@@ -1,4 +1,3 @@
-# Hi, there👋
 # Introduction
 Nice to meet you. My name is Kaito Harada.  
 I live in Japan and am a graduate student majoring in Computer Science.  
