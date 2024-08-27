@@ -1,8 +1,8 @@
 # Hi, there👋
 # Introduction
-Nice to meet you. My name is Kaito Harada.
-I live in Japan and am a graduate student majoring in informatics.
-My research primarily focuses on machine learning and IoT.
+Nice to meet you. My name is Kaito Harada.  
+I live in Japan and am a graduate student majoring in informatics.  
+My research primarily focuses on machine learning and IoT.  
 As a hobby, I am involved in web application development.
 
 ![haradakaito GitHub stats](https://github-readme-stats.vercel.app/api?username=haradakaito&show_icons=true&theme=vue-dark)
