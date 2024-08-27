@@ -44,10 +44,10 @@ As a hobby, I am involved in Web Application development.
 
 # Social Media
 <p align="left">
-	<a href="mailto:harada.kaito.20@shizuoka.ac.jp"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-	<a href="https://www.linkedin.com/in/haradakaito"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-	<a href="https://github.com/haradakaito"><img src="https://skillicons.dev/icons?i=github" /></a>
-	<a href="https://www.instagram.com/dumdum_chanman/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:harada.kaito.20@shizuoka.ac.jp"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/haradakaito"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/haradakaito"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.instagram.com/dumdum_chanman/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <!-- --------------------------------- :) ---------------------------------- -->
@@ -57,7 +57,7 @@ As a hobby, I am involved in Web Application development.
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・
     </h1>
