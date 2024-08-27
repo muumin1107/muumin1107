@@ -3,6 +3,7 @@ Nice to meet you. My name is Kaito Harada.
 I live in Japan and am a graduate student majoring in Computer Science.  
 My research primarily focuses on Machine Learning and IoT.  
 As a hobby, I am involved in Web Application development.
+#
 
 ![haradakaito GitHub stats](https://github-readme-stats.vercel.app/api?username=haradakaito&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haradakaito&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
