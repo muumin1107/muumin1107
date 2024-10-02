@@ -60,6 +60,7 @@ Nice to meet you. My name is Kaito Harada.👋
 <a href="https://www.linkedin.com/in/haradakaito"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/haradakaito"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.instagram.com/dumdum_chanman/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/dumdum_chanman/"><img src="https://skillicons.dev/icons?i=x" /></a>
 </p>
 
 ※Clicking will redirect you to the account.
