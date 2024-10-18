@@ -51,7 +51,7 @@ Nice to meet you. My name is Kaito Harada.👋
 
 # Now Training
 
-<img src="https://skillicons.dev/icons?i=vue,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,docker" /> <br /><br />
 
 # Social Media
 
