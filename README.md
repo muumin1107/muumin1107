@@ -52,11 +52,8 @@ Nice to meet you. My name is Kaito Harada.👋
 # Social Media
 
 <p align="left">
-<a href="mailto:harada.kaito.20@shizuoka.ac.jp"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/haradakaito"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/haradakaito/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/haradakaito"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.instagram.com/dumdum_chanman/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://x.com/anarchy_eeeee"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ※Clicking will redirect you to the account.
