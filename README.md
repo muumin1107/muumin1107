@@ -43,14 +43,6 @@ Nice to meet you. My name is Kaito Harada.👋
 
 <img src="https://skillicons.dev/icons?i=azure" /> <br /><br />
 
-# Social Media
-
-<p align="left">
-<a href="https://www.linkedin.com/in/haradakaito/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
-※Clicking will redirect you to the account.
-
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
