@@ -43,11 +43,11 @@ Nice to meet you. My name is Kaito Harada.👋
 
 # My Skill（Framework and Tools）
 
-<img src="https://skillicons.dev/icons?i=aws,vscode,github,anaconda,fastapi,latex" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,react,aws" /> <br /><br />
 
 # Now Training
 
-<img src="https://skillicons.dev/icons?i=react,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=azure" /> <br /><br />
 
 # Social Media
 
