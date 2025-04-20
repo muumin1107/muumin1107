@@ -2,8 +2,6 @@
 
 Nice to meet you. My name is Kaito Harada.👋  
 
-🌐Mypage: https://haradakaito.org
-
 # About me
 
 <p align="left">
