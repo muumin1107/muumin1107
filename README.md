@@ -49,7 +49,6 @@ Nice to meet you. My name is Kaito Harada.👋
 
 <p align="left">
 <a href="https://www.linkedin.com/in/haradakaito/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/haradakaito"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ※Clicking will redirect you to the account.
