@@ -39,10 +39,6 @@ Nice to meet you. My name is Kaito Harada.👋
 
 <img src="https://skillicons.dev/icons?i=python,react,aws" /> <br /><br />
 
-# Now Training
-
-<img src="https://skillicons.dev/icons?i=azure" /> <br /><br />
-
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
